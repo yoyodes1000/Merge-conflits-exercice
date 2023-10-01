@@ -1,3 +1,4 @@
+REMOTE
 # Merge-conflits-exercice
 exercice sur les conflits 
 il faut ecrire des lignes apparement.
